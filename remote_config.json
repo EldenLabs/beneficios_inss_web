@@ -7,7 +7,7 @@
   "showInterstitial":true,
   "showTestAds":false,
   "showBannerAds":true,
-  "bannerAdUnit":"/22405025169,22870746737/com.eldenlabs.inss.guia.Banner",
-  "interstitialAdUnit":"/22405025169,22870746737/com.eldenlabs.inss.guia.Interstitial",
-  "openAppAdUnitId":"/22405025169,22870746737/com.eldenlabs.inss.guia.AppOpen"
+  "bannerAdUnit":"ca-app-pub-7996006950744275/2167366283",
+  "interstitialAdUnit":"ca-app-pub-7996006950744275/8541202943",
+  "openAppAdUnitId":"ca-app-pub-7996006950744275/3726207573"
 }
