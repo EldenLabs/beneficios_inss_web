@@ -9,5 +9,6 @@
   "showBannerAds":true,
   "bannerAdUnit":"ca-app-pub-7996006950744275/2167366283",
   "interstitialAdUnit":"ca-app-pub-7996006950744275/8541202943",
-  "openAppAdUnitId":"ca-app-pub-7996006950744275/3726207573"
+  "openAppAdUnitId":"ca-app-pub-7996006950744275/3726207573",
+  "showNews":false
 }
